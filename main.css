@@ -175,8 +175,10 @@ body {
         width: 250px;
     } 
     .card .summary {
-        min-width: 83%;
+        min-width: 92%;
         justify-content: center;
         align-self: center;
+        padding: 1rem;
+
     }
 }
